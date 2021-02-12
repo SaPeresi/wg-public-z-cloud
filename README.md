@@ -123,7 +123,7 @@ group:
 
 You can connect with the community in a variety of ways\...
 
-- [Open z
+- [Open z/OS
     enablement](https://lists.openmainframeproject.org/g/wg-open-zos-enablement)
 
 - [Join the conversation on Open Mainframe Project
