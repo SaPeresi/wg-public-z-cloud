@@ -79,7 +79,7 @@ most important cases:
 
 This then reduced the project dimensions to this table. This matrix
 could provide different ways of attacking the problem space.
-|    <br>Complexity     |    <br>Environment   Use                                                                                                                                 |    <br>Emulated zPDT/zD&T                                        |    <br>Emulated<br>   <br>zPDT/zD&T                                                                                    |    <br>Z Hardware (either Bare Metal or z/VM)                                              |    <br>Z Hardware (either Bare Metal or z/VM)                                |
+|    <br>Complexity     |    <br>Environment   Use                                                                                                                                 |    <br>Emulated zPDT/zD&T                                        |    <br>Emulated  zPDT/zD&T                                                                                    |    <br>Z Hardware (either Bare Metal or z/VM)                                              |    <br>Z Hardware (either Bare Metal or z/VM)                                |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 |    <br>               |    <br>                                                                                                                                                  |    <br>Donated or Shared                                         |    <br>Owned                                                                                                           |    <br>Donated or Shared                                                                   |    <br>Owned                                                                 |
 |    <br>Simple         |    <br>Shared   sysprog support required to establish the user’s z/OS environment<br>   <br>(For example   simply Unix System Services)                  |    <br>Perhaps z/OS   on AWS with IBM ZD&T Code as a template    |    <br>1 Perhaps z/OS   on AWS with IBM ZD&T Code as a template (target audience MF Novices)                           |    <br>1 Marist   College or VCU environment template, with donated REXX from a company    |    <br>Company   enables employee experimentation using company resources    |
@@ -123,8 +123,8 @@ group:
 
 You can connect with the community in a variety of ways\...
 
-- [Public z
-    enablement](https://wg-open-zos-enablement+subscribe@lists.openmainframeproject.org)
+- [Open z
+    enablement](https://lists.openmainframeproject.org/g/wg-open-zos-enablement)
 
 - [Join the conversation on Open Mainframe Project
     Slack](https://slack.openmainframeproject.org/)
@@ -140,7 +140,7 @@ at [[CONTRIBUTING.md]{.ul}](https://github.com/openmainframeproject/wg-open-zos
 
 **Governance**
 
-z/OS open environment is a project hosted by the [[Open Mainframe
+Open zOS enablement is a project hosted by the [[Open Mainframe
 Project]{.ul}](https://openmainframeproject.org/). This project has
 established its\' own processes for managing day-to-day processes in the
 project
@@ -153,10 +153,11 @@ an [[issue]{.ul}](https://github.com/openmainframeproject/wg-open-zos-enablemen
 repository against a specific workflow. If the issue is sensitive in
 nature or a security related issue, please do not report in the issue
 tracker but instead
-email <wg-public-z-cloud+help@lists.openmainframeproject.org>.
+email <wg-open-zos-enablement+help@lists.openmainframeproject.org>.
 
 ## Meetings
 
+Once you have subsribed to the group you can follow the link below for events.
 See the [Open Mainframe Project public
 calendar](https://lists.openmainframeproject.org/calendar). This WG
 meets biweekly every other Thursday at 4:00 PM EST.
